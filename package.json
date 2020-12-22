@@ -64,7 +64,7 @@
     "gulp-eslint": "^5.0.0",
     "gulp-nodemon": "^2.4.1",
     "gulp-uglify": "^3.0.1",
-    "node-notifier": "^5.3.0",
+    "node-notifier": "^8.0.1",
     "pump": "^3.0.0",
     "workbox-build": "^4.3.1"
   },
